@@ -1,2 +1,2 @@
-hello git!
+hello git! hot-fix update
 hello xinyu! master update
